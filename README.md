@@ -1,4 +1,13 @@
 <h2 align="left">Hi 👋! My name is Sam and I'm a Data Engineer, from Telford</h2>
+<div>
+  <h3>About Me</h3>
+  <ul>
+    <li>Bachelors of Science in Software Engineering</li>
+    <li>Experience With full-stack development</li>
+    <li>AWS Certified Data Engineer</li>
+    <li>Always Eager to learn and take on new challenges</li>
+  </ul>
+</div>
 
 ###
 
